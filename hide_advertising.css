@@ -1,0 +1,7 @@
+@-moz-document domain("radio.de") {
+div[suppresshydrationwarning="true"],
+div#stationpage-holder > div > div[suppresshydrationwarning],
+.topAdSpacer {
+    display: none;
+}
+}
